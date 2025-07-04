@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/janithhansamana" target="blank"><img src="https://img.shields.io/twitter/follow/janithhansamana?logo=twitter&style=for-the-badge" alt="janithhansamana" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 Undergraduate
 
-- 💬 Ask me about **Java , react**
+- 💬 Ask me about **Java , react , flutter , kotlin , dart**
 
 - 📫 How to reach me **jhansamana@gmail.com**
 
